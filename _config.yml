@@ -1,5 +1,5 @@
 title: "Beetle and the wonderous world"
-author: "Beetle Heron"
+author: "Birdy Beetle"
 description: "Nankeen night heron XD style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Floofy Birdy, icon: bird}
-  - {file: "README.md", title: About me, icon: snail}
+  - {file: "README.md", title: About Me, icon: snail}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gooseygoosebeetle@gmail.com}
